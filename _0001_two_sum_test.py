@@ -1,5 +1,5 @@
 import unittest
-from twoSum import Solution
+from _0001_two_sum import Solution
 from Helpers import CompareHelper
 
 
